@@ -1,99 +1,39 @@
-# 🧪 Projeto QA - Sistema de Pagamento Amazon
+# 👩‍💻 QA Portfolio
 
-## 📌 Sobre o Projeto
-Este projeto foi desenvolvido com foco em testes manuais de um sistema de pagamentos inspirado no fluxo da Amazon.
-
-O objetivo é validar diferentes métodos de pagamento, identificar falhas no sistema e documentar cenários reais de teste utilizados em QA Manual.
+Portfólio de projetos em QA Manual focados em testes funcionais, documentação de bugs e validação de sistemas reais.
 
 ---
 
-# 🎯 Objetivo
-Validar o funcionamento dos métodos de pagamento e garantir que o sistema aceite apenas transações válidas.
+# 🧪 Projetos
+
+| Projeto | Descrição |
+|---|---|
+| Amazon Payment Tests | Testes de métodos de pagamento |
+| Netflix Login Tests | Testes de autenticação e login |
+| iFood Cart Tests | Testes de carrinho e pedidos |
 
 ---
 
-# 🔍 Escopo dos Testes
+# 🛠️ Habilidades Desenvolvidas
 
-Os seguintes métodos de pagamento foram analisados:
-
-- PIX
-- Cartão de crédito
-- Boleto
-- NuPay
-- Geru
-
----
-
-# 🚫 Fora do Escopo
-
-Os seguintes módulos não fazem parte deste projeto:
-
-- Endereço
-- Frete
-- Rastreamento de pedidos
-
----
-
-# 🧠 Estratégia de Teste
-
-Os testes foram realizados utilizando:
-
-- Testes manuais
-- Dados válidos e inválidos
-- Validação de campos obrigatórios
-- Testes de comportamento inesperado
-- Simulação de falhas reais
-
----
-
-# 🧪 Cenários Testados
-
-- Pagamento com cartão válido
-- Cartão expirado
-- CVV inválido
-- Campo obrigatório vazio
-- PIX expirado
-- Pagamento duplicado
-- Internet interrompida durante pagamento
-- Saldo insuficiente
-
----
-
-# 🐞 Bugs Identificados
-
-- Sistema permite pagamento duplicado
-- Sistema aceita cartão expirado
-
----
-
-# 📊 Resultado Final
-
-O sistema apresentou falhas importantes relacionadas à validação de pagamentos e prevenção de duplicidade.
-
-As inconsistências identificadas podem impactar diretamente a experiência do usuário e a segurança das transações.
-
----
-
-# 🛠️ Ferramentas Utilizadas
-
+- Casos de Teste
+- Relatórios de Bugs
+- Testes Funcionais
 - GitHub
 - Markdown
-- Testes Manuais
+- QA Manual
 
 ---
 
-# 📁 Estrutura do Projeto
+# 📚 Em andamento
 
-```text
-amazon-payment-tests
-├── README.md
-├── casos-de-teste.md
-├── bugs.md
-└── relatorio-final.md
-```
+- CTFL
+- Jira
+- Postman
+- Introdução à Automação
 
 ---
 
-# ✅ Status do Projeto
+# 🚀 Objetivo
 
-✔ Em desenvolvimento
+Desenvolver experiência prática em QA Manual e evoluir para automação de testes.
